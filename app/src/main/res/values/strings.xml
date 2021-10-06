@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="main">From MainActivity To SecondActivity</string>
+    <string name="second">From SecondActivity To MainActivity</string>
+</resources>
